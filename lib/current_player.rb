@@ -1,5 +1,7 @@
 # this is how real life addition and subtraction should work!
 
+require pry 
+
 board = [" "," "," "," "," "," "," "," "," "]
 
 def turn_count(board)

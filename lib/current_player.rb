@@ -1,7 +1,7 @@
 board = [" "," "," "," "," "," "," "," "," "]
 
 def turn_count(board)
-  board.to 
+  board.size
 end 
 
 def current_player

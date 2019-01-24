@@ -3,7 +3,7 @@ board = [" "," "," "," "," "," "," "," "," "]
 def turn_count(board)
   counter = 0
   board.each do |taken|
-    if "taken"
+    if take == "X"
   board.size
 end 
 

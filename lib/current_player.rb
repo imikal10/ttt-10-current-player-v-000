@@ -5,7 +5,7 @@ def turn_count(board)
   board.each do |taken|
     if taken == "X" || taken == "O"
       counter += 1 
-  board.size
+    end
 end 
 
 def current_player

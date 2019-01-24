@@ -1,6 +1,6 @@
 # this is how real life addition and subtraction should work!
 
-require pry 
+require 'pry'
 
 board = [" "," "," "," "," "," "," "," "," "]
 
